@@ -1,3 +1,3 @@
-git remote add origi
-fit remote -vn
+git remote add origin
+fit remote -v
 git init
